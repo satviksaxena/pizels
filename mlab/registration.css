@@ -1,0 +1,31 @@
+*{
+	box-sizing:border-box;
+}
+h1{
+	text-align: center;
+	padding:20px;
+}
+.container {
+	text-align: center;
+	border-style: dotted;
+	padding:60px;
+	margin:0px 400px 100px 400px;
+	background-image: url("mainback.jpg");   
+}
+body{
+	background-image: url("mainback.jpg");
+
+}
+input {type="button"]{
+	color: lightblue;
+}
+.registerbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}

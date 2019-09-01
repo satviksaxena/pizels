@@ -1,0 +1,15 @@
+body {
+	background-color: #cccccc;
+	
+}
+
+
+.jumbotron {
+	color: #2c3e50;
+	background-image:url("mainback.jpg");
+	
+}
+
+.navbar-inverse {
+	background: #2c3e50;
+}

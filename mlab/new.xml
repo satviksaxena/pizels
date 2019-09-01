@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="new.xsl"?>
+<student>
+	<info>
+		<id>01</id>
+		<name>satvik</name>
+		<country>india</country>
+		<email>satvik1@gmail.com</email>
+		<phone>7017621680</phone>	
+		<branch>IT</branch>
+	</info>
+	<info>
+		<id>02</id>
+		<name>saquib</name>
+		<country>india</country>
+		<email>saquib1@gmail.com</email>
+		<phone>9412108800</phone>	
+		<branch>IT</branch>
+	</info>
+	<info>
+		<id>03</id>
+		<name>deeksha</name>
+		<country>india</country>
+		<email>deeksha.35@gmail.com</email>
+		<phone>7017621680</phone>	
+		<branch>IT</branch>
+	</info>
+	<info>
+		<id>04</id>
+		<name>anushree</name>
+		<country>india</country>
+		<email>anushree@gmail.com</email>
+		<phone>70175895456</phone>	
+		<branch>IT</branch>
+	</info>
+	<info>
+		<id>05</id>
+		<name>atharva</name>
+		<country>india</country>
+		<email>atharva@gmail.com</email>
+		<phone>7017621680</phone>	
+		<branch>IT</branch>
+	</info>
+	<info>
+		<id>06</id>
+		<name>akash</name>
+		<country>nigera</country>
+		<email>akashthesky@gmail.com</email>
+		<phone>7017621680</phone>	
+		<branch>IT</branch>
+	</info>
+</student>

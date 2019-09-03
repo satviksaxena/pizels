@@ -7,7 +7,7 @@ git clone https://github.com/satviksaxena/pizels.git
 ```
 ### 3.Copy the files to 
 ```sh 
-C://xampp/htdocs
+C:\xampp\htdocs
 ```
 ### 4.Run SQL Database
 Create database ``` user ``` and add table  ``` project ``` and add rows accordingly.
